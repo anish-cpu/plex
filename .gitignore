@@ -1,0 +1,9 @@
+target/*
+*/.DS_Store
+.DS_Store
+.classpath
+.idea/
+.project
+.settings/
+/target/
+.sonar-token
